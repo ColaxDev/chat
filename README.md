@@ -1,10 +1,10 @@
 # Chat
 
-Simple TCP chat built with (Golang)[https://go.dev]
+Simple TCP chat built with [Golang](https://go.dev)
 
 ## Install
 
-### Using (Go install)[https://go.dev/ref/mod#go-install]
+### Using [Go install](https://go.dev/ref/mod#go-install)
 
 ```console
 $ go install github.com/colaxdev/chat@latest
@@ -12,7 +12,7 @@ $ go install github.com/colaxdev/chat@latest
 
 ### From binary package
 
-Go to (Releases)[https://github.com/colaxdev/chat/releases]
+Go to [Releases](https://github.com/colaxdev/chat/releases)
 
 ## Quick Start
 
@@ -22,7 +22,7 @@ Go to (Releases)[https://github.com/colaxdev/chat/releases]
 $ chat
 ```
 
-### Connect to server using (Telnet)[https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/telnet]
+### Connect to server using [Telnet](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/telnet)
 
 ```console
 $ telnet 127.0.0.1 8080 
