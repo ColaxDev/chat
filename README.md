@@ -7,12 +7,12 @@ Simple TCP chat built with [Golang](https://go.dev)
 ### Using [Go install](https://go.dev/ref/mod#go-install)
 
 ```console
-$ go install github.com/frexsdev/chat@latest
+$ go install github.com/frexsdev/go-tcp-chat@latest
 ```
 
 ### From binary package
 
-Go to [Releases](https://github.com/frexsdev/chat/releases)
+Go to [Releases](https://github.com/frexsdev/go-tcp-chat/releases)
 
 ## Quick Start
 
